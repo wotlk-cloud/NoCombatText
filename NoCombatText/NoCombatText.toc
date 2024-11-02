@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: No Combat Text
+## Notes: Disables the damage and healing text on Blizzard's default player and pet unitframes
+## DefaultState: enabled
+NoCombatText.lua
